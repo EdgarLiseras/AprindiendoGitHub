@@ -16,6 +16,13 @@ En la altualidad GitHub es más que un alojamiento de código, ofrese además va
 - Una HERRAMIENTA DE REVISIÓN DE CÓDIGO, donde se puede añadir anotaciones en cualquier parte del fichero y debatir sobre determinados cambios.
 - Un VISOR DE RAMAS, donde se pueden comparar los progresos en varias ramas del proyecto.
 
+## Bloque de códgio
+
+```javascript
+var a = 'hola mundo';
+print(a);
+```
+
 ## Aprendiendo
 github como funciona
 CÓMO USAR Git y GitHub FÁCILMENTE [2019]
